@@ -22,4 +22,8 @@ Styling: CSS, Material-UI
 
 
 # Demo
-https://github.com/user-attachments/assets/ddf9ca16-81fd-4d46-ba84-1f818fca9298
+
+
+https://github.com/user-attachments/assets/b523f581-0a12-443d-a662-f1315e602a60
+
+
