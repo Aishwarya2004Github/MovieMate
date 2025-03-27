@@ -24,7 +24,7 @@ app.use(cookieParser());
 
 const PORT = process.env.PORT || 3000;
 const corsOptions = {
-    origin: "http://localhost:3000",
+    origin: "https://moviemate-95nb.onrender.com",
     credentials: true,
 };
 app.use(cors(corsOptions));
